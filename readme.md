@@ -1,6 +1,6 @@
 # MP3tag Docker
 
-MP3tag running in docker accessable with a web ui or vnc.
+MP3tag running in docker accessible with a web ui or vnc.
 
 Also has firefox and a file browser.
 
